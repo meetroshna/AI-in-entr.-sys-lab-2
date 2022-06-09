@@ -8,6 +8,15 @@
 # In[1]:
 
 
+created a new branch added one more python file
+created a liner regression model
+steps are:
+loaded libraries and dataset
+data cleaning 
+train and test
+the model shows an accuracy of 96%
+
+
 import pandas as pd
 pd.set_option('use_inf_as_na', True)
 import matplotlib.pyplot as plt
